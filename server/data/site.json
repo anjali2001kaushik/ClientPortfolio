@@ -1,0 +1,33 @@
+{
+  "name": "Bhavya Agrawal",
+  "role": "Director of Photography & Filmmaker",
+  "markInitials": "BA",
+  "markSuffix": "DOP",
+  "hero": {
+    "eyebrow": "Director of Photography & Filmmaker",
+    "titleLine1": "BHAVYA",
+    "titleLine2": "AGRAWAL",
+    "tagline": "I build visual stories with intention — turning real moments, people, and places into cinematic experiences, at any scale.",
+    "primaryCta": "Watch Showreel",
+    "secondaryCta": "Guinness World Record"
+  },
+  "marquee": [
+    "Documentary Films",
+    "Guinness World Records",
+    "Commercial Shoots",
+    "Aftermovies",
+    "Short Films",
+    "Photography"
+  ],
+  "contact": {
+    "email": "bhavya.agrawalfilms@gmail.com",
+    "headline1": "Let's shoot",
+    "headline2": "something record-worthy",
+    "responseTime": "Reply within 48 hours"
+  },
+  "social": {
+    "instagram": "https://instagram.com/agrawalbhavya__",
+    "linkedin": "",
+    "vimeo": ""
+  }
+}

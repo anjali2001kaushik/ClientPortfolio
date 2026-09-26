@@ -1,0 +1,20 @@
+{
+  "name": "bhavya-agrawal-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Portfolio site for Bhavya Agrawal — Cinematographer / DOP. React (Vite) client + Express API.",
+  "scripts": {
+    "install:all": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently -k -n SERVER,CLIENT -c blue,yellow \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm run build && npm run start --prefix server"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}

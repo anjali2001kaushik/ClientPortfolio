@@ -1,0 +1,166 @@
+[
+  {
+    "id": "documentary-films",
+    "reelTag": "Guinness book of world records",
+    "categoryTitle": "World Record Documentary Films",
+    "categoryDesc": "Real stories. Extraordinary achievements. Moments that made history.",
+    "items": [
+      {
+        "id": "ayodhya-deepotsav",
+        "title": "Ayodhya Deepotsav",
+        "category": "",
+        "spec": "",
+        "span": 12,
+        "tall": false,
+        "letterbox": true,
+        "videoUrl": "https://youtu.be/E1rK220zxTA",
+        "thumbnail": "https://img.youtube.com/vi/E1rK220zxTA/maxresdefault.jpg"
+      },
+      {
+        "id": "international-gita-mahotsav",
+        "title": "International Gita Mahotsav",
+        "category": "",
+        "spec": "",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://www.youtube.com/watch?v=rp4EpaStySw",
+        "thumbnail": "https://img.youtube.com/vi/rp4EpaStySw/maxresdefault.jpg"
+      },
+      {
+        "id": "tansen-shatabdi-samaroh",
+        "title": "Tansen Shatabdi Samaroh",
+        "category": "",
+        "spec": "",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://www.youtube.com/watch?v=h_dbpSRzL-A",
+        "thumbnail": "https://img.youtube.com/vi/h_dbpSRzL-A/maxresdefault.jpg"
+      },
+      {
+        "id": "ek-ped-maa-ke-naam",
+        "title": "Indore — Ek Ped Maa Ke Naam",
+        "category": "",
+        "spec": "",
+        "span": 12,
+        "tall": false,
+        "letterbox": true,
+        "videoUrl": "https://www.youtube.com/watch?v=l--tCRil_R4",
+        "thumbnail": "https://img.youtube.com/vi/l--tCRil_R4/maxresdefault.jpg"
+      }
+    ]
+  },
+    {
+    "id": "commercial-shoots",
+  
+    "categoryTitle": "Spiritual Documentary Films",
+    "categoryDesc": "Capturing the spirit of Vrindavan through stories, rituals, people, and sacred traditions.",
+    "items": [
+      {
+        "id": "phool-bangla",
+        "title": "The Phool Bangla",
+        "category": "",
+        "spec": "",
+        "span": 12,
+        "tall": false,
+        "letterbox": true,
+        "videoUrl": "https://www.youtube.com/watch?v=Bc__R3N6Ls4",
+        "thumbnail": "https://img.youtube.com/vi/Bc__R3N6Ls4/maxresdefault.jpg"
+      },
+      {
+        "id": "hitutsav-vrindavan",
+        "title": "Hit Utsav — Vrindavan",
+        "category": "",
+        "spec": "",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://www.youtube.com/watch?v=aJsE30kEQ20",
+        "thumbnail": "https://img.youtube.com/vi/aJsE30kEQ20/maxresdefault.jpg"
+      },
+      {
+        "id": "pushpkali-sringaar",
+        "title": "PushpKali Sringaar — Vrindavan",
+        "category": "",
+        "spec": "",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://www.youtube.com/watch?v=vNumYIEjD1U",
+        "thumbnail": "https://img.youtube.com/vi/vNumYIEjD1U/maxresdefault.jpg"
+      },
+      {
+        "id": "madanter-mansarovar-yatra",
+        "title": "Madanter Se Mansarovar Yatra",
+        "category": "",
+        "spec": "",
+        "span": 12,
+        "tall": false,
+        "letterbox": true,
+        "videoUrl": "https://www.youtube.com/watch?v=UhRtFa5-9AU",
+        "thumbnail": "https://img.youtube.com/vi/UhRtFa5-9AU/maxresdefault.jpg"
+      }
+    ]
+  },
+  {
+    "id": "aftermovies",
+    "categoryTitle": "Aftermovies",
+    "categoryDesc": "Turning live moments, energy, and experiences into cinematic stories that last beyond the event",
+    "items": [
+
+      {
+        "id": "srila-prabhupada-memorial-festival-2023",
+        "title": "Srila Prabhupada Memorial Festival 2023 — ISKCON Ujjain",
+        "category": "AFTERMOVIE",
+        "spec": "EVENT COVERAGE",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://youtu.be/F6Y9gyOTksg",
+        "thumbnail": "/images/iskcon2023.webp"
+      },
+      {
+        "id": "nityananda-trayodashi-2024",
+        "title": "Nityananda Trayodashi 2024 — ISKCON Ujjain",
+        "category": "AFTERMOVIE",
+        "spec": "EVENT COVERAGE",
+        "span": 6,
+        "tall": false,
+        "letterbox": false,
+        "videoUrl": "https://youtu.be/XoZh7c9gi2I",
+        "thumbnail": "/images/iskcon2024.webp"
+      }
+    ]
+  },
+
+  {
+    "id": "short-films",
+    "categoryTitle": "Short Films",
+    "categoryDesc": "A selection of award-winning short films showcasing cinematic storytelling and visual craft.",
+    "items": [
+        {
+        "id": "the-last-attempt",
+        "title": "The Last Attempt",
+        "category": "SHORT FILM",
+        "spec": "AWARD-WINNING",
+        "span": 6,
+        "tall": false,
+        "letterbox": true,
+         "videoUrl": "https://youtu.be/kW2Jg6LdXmU",
+        "thumbnail": "https://img.youtube.com/vi/kW2Jg6LdXmU/maxresdefault.jpg"
+      },
+      {
+        "id": "ruins-of-mahakal",
+        "title": "Ruins of the Mahakal",
+        "category": "SHORT FILM",
+        "spec": "AWARD-WINNING",
+        "span": 6,
+        "tall": false,
+        "letterbox": true,
+         "videoUrl": "https://youtu.be/VWotzlcNAz4",
+        "thumbnail": "https://img.youtube.com/vi/VWotzlcNAz4/maxresdefault.jpg"
+      }
+    ]
+  }
+]

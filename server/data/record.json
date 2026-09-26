@@ -1,0 +1,44 @@
+{
+  "eyebrow": "Officially Documented",
+  "titleLine1": "Guinness World Records",
+  "titleLine2": "Coverage",
+  "description": "On-site cinematography for five separate Guinness World Records ceremonies across Madhya Pradesh and Uttar Pradesh — from record-breaking mass rituals to India's largest classical music ensemble.",
+  "headlineStats": [
+    { "value": "5", "label": "GWR Events Filmed" },
+    { "value": "2024–25", "label": "Editions Covered" },
+    { "value": "2", "label": "States — MP & UP" }
+  ],
+  "records": [
+    {
+      "title": "Ayodhya Deepotsav",
+      "location": "Ayodhya, Uttar Pradesh",
+      "date": "2024 & 2025",
+      "achievement": "Largest display of oil lamps (26,17,215 diyas in 2025) and most people performing aarti simultaneously (2,128 in 2025)"
+    },
+    {
+      "title": "International Gita Mahotsav",
+      "location": "Bhopal, Madhya Pradesh",
+      "date": "December 2024",
+      "achievement": "5,000+ Acharyas reciting the Bhagavad Gita's 'Karma Yog' chapter in unison"
+    },
+    {
+      "title": "Tansen Sangeet Samaroh (100th Edition)",
+      "location": "Gwalior, Madhya Pradesh",
+      "date": "December 2024",
+      "achievement": "Largest Hindustani classical band — 546 musicians performing together"
+    },
+    {
+      "title": "\"Ek Ped Maa Ke Naam\" Plantation Drive",
+      "location": "Indore, Madhya Pradesh",
+      "date": "July 2024",
+      "achievement": "Most trees planted by a team in 24 hours — over 12 lakh saplings"
+    },
+    {
+      "title": "Largest Damaru Ensemble",
+      "location": "Ujjain, Madhya Pradesh",
+      "date": "August 2024",
+      "achievement": "1,390 participants playing the damaru together at Mahakaleshwar Temple"
+    }
+  ],
+  "note": "Figures independently verified via public Guinness World Records reporting. Certificate numbers and adjudication dates can be added once available."
+}

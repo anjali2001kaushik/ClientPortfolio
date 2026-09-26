@@ -1,0 +1,38 @@
+[
+  {
+    "id": "6eb782bf-d9c6-4f4e-b971-bb8aeffbb91f",
+    "token": "093074d861cff91e97ae3a7b56014598ec67b862",
+    "name": "Anjali",
+    "brand": "SampleBrand",
+    "quote": "Good",
+    "status": "pending",
+    "createdAt": "2026-09-12T18:52:17.424Z"
+  },
+  {
+    "id": "a4773654-178a-4f9f-9fc0-9be1fad3d609",
+    "token": "e8bd81d419868041442f65028888f6c548dd23a8",
+    "name": "Anjali",
+    "brand": "SampleBrand",
+    "quote": "Good",
+    "status": "pending",
+    "createdAt": "2026-09-12T18:53:03.337Z"
+  },
+  {
+    "id": "603246a3-c234-4bdb-8173-a2acee0e10c1",
+    "token": "e59be9cbbcef667d1189b238661ac4d1a6352f05",
+    "name": "Anjali",
+    "brand": "SampleBrand",
+    "quote": "Good",
+    "status": "pending",
+    "createdAt": "2026-09-12T18:53:33.469Z"
+  },
+  {
+    "id": "2409fe71-33d5-4b72-8f71-8f79eccd25e8",
+    "token": "d998626e08fb9fff5781a8b1ce934c3efb61159c",
+    "name": "Anjali",
+    "brand": "Brand",
+    "quote": "Good",
+    "status": "pending",
+    "createdAt": "2026-09-12T18:54:14.148Z"
+  }
+]

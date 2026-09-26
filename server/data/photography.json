@@ -1,0 +1,228 @@
+{
+  "eyebrow": "Behind The Lens",
+  "title": "Photography",
+  "description": "A collection of moments, places, and stories captured through my lens.",
+  "galleries": [
+    {
+      "id": "commercial-photography",
+      "title": "Commercial Photography",
+      "partial": true,
+      "images": [
+        {
+          "id": "commercial-photo-1",
+          "title": "Commercial Photography 01",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img4.jpg"
+        },
+        {
+          "id": "commercial-photo-2",
+          "title": "Commercial Photography 02",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img5.jpg"
+        },
+        {
+          "id": "commercial-photo-3",
+          "title": "Commercial Photography 03",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 4,
+          "tall": true,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img12.jpg"
+        },
+        {
+          "id": "commercial-photo-4",
+          "title": "Commercial Photography 04",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 4,
+          "tall": true,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img6.jpg"
+        },
+        {
+          "id": "commercial-photo-5",
+          "title": "Commercial Photography 05",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 4,
+          "tall": true,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img8.jpg"
+        },
+        {
+          "id": "commercial-photo-6",
+          "title": "Commercial Photography 06",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 12,
+          "tall": false,
+          "letterbox": true,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img9.jpg"
+        },
+        {
+          "id": "commercial-photo-7",
+          "title": "Commercial Photography 07",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img10.jpg"
+        },
+        {
+          "id": "commercial-photo-8",
+          "title": "Commercial Photography 08",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img11.jpg"
+        },
+        {
+          "id": "commercial-photo-9",
+          "title": "Commercial Photography 09",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img7.jpg"
+        },
+        {
+          "id": "commercial-photo-10",
+          "title": "Commercial Photography 10",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img1.jpg"
+        },
+        {
+          "id": "commercial-photo-11",
+          "title": "Commercial Photography 11",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/062A3855.jpg"
+        },
+        {
+          "id": "commercial-photo-12",
+          "title": "Commercial Photography 12",
+          "category": "PHOTOGRAPHY",
+          "spec": "COMMERCIAL SHOOT",
+          "span": 6,
+          "tall": false,
+          "letterbox": false,
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img3.jpg"
+        }
+      ]
+    },
+    {
+      "id": "street-photography",
+      "title": "Street Photography",
+      "partial": true,
+      "images": [
+        {
+          "id": "street-photo-13",
+          "title": "Street Photography 1",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img29.jpg"
+        },
+        {
+          "id": "street-photo-14",
+          "title": "Street Photography 2",
+          "imageUrl": "/images/img14.webp"
+        },
+
+        {
+          "id": "street-photo-17",
+          "title": "Street Photography 5",
+          "imageUrl": "/images/img17.webp"
+        },
+        {
+          "id": "street-photo-18",
+          "title": "Street Photography 6",
+          "imageUrl": "/images/img18.webp"
+        },
+        {
+          "id": "street-photo-23",
+          "title": "Street Photography 11",
+          "imageUrl": "/images/img23.webp"
+        },
+
+        {
+          "id": "street-photo-25",
+          "title": "Street Photography 13",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/v1787768206/img25.jpg"
+        },
+        {
+          "id": "street-photo-26",
+          "title": "Street Photography 14",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/v1787768213/img26.jpg"
+        },
+
+        {
+          "id": "street-photo-28",
+          "title": "Street Photography 16",
+          "imageUrl": "/images/img28.webp"
+        },
+
+        {
+          "id": "street-photo-30",
+          "title": "Street Photography 18",
+          "imageUrl": "/images/img30.webp"
+        },
+
+        {
+          "id": "street-photo-32",
+          "title": "Street Photography 20",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/v1787768213/img32.jpg"
+        },
+        {
+          "id": "street-photo-33",
+          "title": "Street Photography 21",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/v1787768214/img33.jpg"
+        },
+        {
+          "id": "street-photo-34",
+          "title": "Street Photography 22",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/v1787768219/img34.jpg"
+        },
+
+        {
+          "id": "street-photo-36",
+          "title": "Street Photography 24",
+          "imageUrl": "https://res.cloudinary.com/jmvlsbvs/image/upload/f_auto,q_auto,w_1200/img36.jpg"
+        },
+
+        {
+          "id": "street-photo-38",
+          "title": "Street Photography 26",
+          "imageUrl": "/images/img38.webp"
+        },
+        {
+          "id": "street-photo-39",
+          "title": "Street Photography 27",
+          "imageUrl": "/images/img39.webp"
+        },
+        {
+          "id": "street-photo-40",
+          "title": "Street Photography 28",
+          "imageUrl": "/images/img40.webp"
+        }
+      ]
+    }
+  ]
+}

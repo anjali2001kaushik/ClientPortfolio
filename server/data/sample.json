@@ -1,0 +1,23 @@
+{
+    "payment_id": [ "PY200010528641", "PY200010528640" ],
+    "payment_mode": "neft",
+    "amount": 2999,
+    "transaction_id": "000000034315",
+    "transaction_date": "2026-08-01",
+    "pan_no": "AYXPN8203H",
+    "consolidate": "No",
+    "source_system": "Foyer",
+    "customer_doc_applicable": "false",
+    "cart_id": 200998,
+    "payer_type": "customer",
+    "payer_name": "ANKUSH",
+    "payer_relationship": "E",
+    "producer_code": "0015455000",
+    "verification_method": "Partner",
+    "house_bank_code": "12111250",
+    "bank_code": "1211",
+    "branch_name": "MUMBAI",
+    "account_number": "912020044795650",
+    "payer_id": "",
+    "office_location_code": "0200"
+  }
