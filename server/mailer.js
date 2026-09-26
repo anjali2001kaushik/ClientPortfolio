@@ -1,13 +1,32 @@
-import nodemailer from 'nodemailer';
+// Resend-based mailer.
+// Uses HTTPS instead of SMTP, so it works with Render's outbound
+// SMTP restrictions.
 
-// Single shared SMTP transporter, used by both the contact form
-// (routes/api.js) and the brand-review workflow (routes/reviews.js).
-export const transporter = nodemailer.createTransport({
-  host: process.env.SMTP_HOST,
-  port: Number(process.env.SMTP_PORT),
-  secure: false, // true for port 465
-  auth: {
-    user: process.env.SMTP_USER,
-    pass: process.env.SMTP_PASS,
+export const transporter = {
+  async sendMail({ from, to, replyTo, subject, text, html }) {
+    const response = await fetch('https://api.resend.com/emails', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${process.env.RESEND_API_KEY}`,
+      },
+      body: JSON.stringify({
+        from: process.env.EMAIL_FROM,
+        to: Array.isArray(to) ? to : [to],
+        reply_to: replyTo,
+        subject,
+        text,
+        html,
+      }),
+    });
+
+    const data = await response.json();
+
+    if (!response.ok) {
+      console.error('Resend API error:', data);
+      throw new Error(data?.message || 'Email sending failed');
+    }
+
+    return data;
   },
-});
+};

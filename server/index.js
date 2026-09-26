@@ -14,7 +14,9 @@ const CLIENT_DIST = path.join(__dirname, '..', 'client', 'dist');
 // In dev, only allow the Vite dev server's origin. In production the
 // client is served by this same Express app, so CORS doesn't matter —
 // but the setting is still read from env instead of hardcoded either way.
-app.use(cors({ origin: CLIENT_ORIGIN }));
+if (process.env.NODE_ENV !== 'production') {
+  app.use(cors({ origin: CLIENT_ORIGIN }));
+}
 app.use(express.json());
 
 app.use('/api', apiRouter);

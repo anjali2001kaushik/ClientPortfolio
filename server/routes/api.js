@@ -85,8 +85,8 @@ router.post('/contact', async (req, res) => {
   try {
     // Email to you
     await transporter.sendMail({
-      from: `"Portfolio Contact" <${process.env.SMTP_USER}>`,
-      to: process.env.CONTACT_RECEIVER || process.env.SMTP_USER,
+      from: process.env.EMAIL_FROM,
+      to: process.env.CONTACT_RECEIVER,
       replyTo: email,
       subject: `New Portfolio Contact from ${name}`,
       text: `
@@ -108,25 +108,25 @@ ${message}
     });
 
     // Confirmation email to visitor
-    await transporter.sendMail({
-      from: `"Bhavya Agrawal" <${process.env.SMTP_USER}>`,
-      to: email,
-      subject: 'Thanks for reaching out!',
-      html: `
-        <h2>Thank You!</h2>
+    // await transporter.sendMail({
+    //   from: process.env.EMAIL_FROM,
+    //   to: email,
+    //   subject: 'Thanks for reaching out!',
+    //   html: `
+    //     <h2>Thank You!</h2>
 
-        <p>Hi ${name},</p>
+    //     <p>Hi ${name},</p>
 
-        <p>Thank you for contacting me through my portfolio website.</p>
+    //     <p>Thank you for contacting me through my portfolio website.</p>
 
-        <p>I have received your message and will get back to you as soon as possible.</p>
+    //     <p>I have received your message and will get back to you as soon as possible.</p>
 
-        <br>
+    //     <br>
 
-        <p>Regards,</p>
-        <strong>Bhavya Agrawal</strong>
-      `,
-    });
+    //     <p>Regards,</p>
+    //     <strong>Bhavya Agrawal</strong>
+    //   `,
+    // });
 
     res.json({
       ok: true,
